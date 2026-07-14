@@ -1,1 +1,1 @@
-# Mood-Based-Movie-Picker
+Mood-Based Movie Picker is a beginner-friendly Python project that helps users discover movies by selecting their mood, such as happy, sad, excited, romantic, or adventurous. Built using core Python concepts.
